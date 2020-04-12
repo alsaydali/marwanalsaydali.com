@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Welcome to my Blog`,
-    siteUrl: `https://github.com/alsaydali/gatsby-playground`,
-    description: `I built this blog using GatsbyJs and GraphQL`,
+    title: `Marwan Alsaydali`,
+    siteUrl: `https://marwanalsaydali.com`,
+    description: `I build fast beatiful websites and take pictures!`,
     author: {
       name: `Marwan Alsaydali`,
       summary: `I am a  Husband, Father, Webd Developer and Photographer.`,
