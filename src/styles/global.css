@@ -45,6 +45,8 @@ nav {
 footer {
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 .footer__social a:not(:last-child) {
   margin-right: 15px;
