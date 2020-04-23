@@ -5,7 +5,7 @@ import PostsList from "../components/reuseable/postslist"
 const Blog = ({ data }) => (
   <Layout>
     <Header title="Post of my Blog" desc="List of my blog posts" />
-    <PostsList />
+    <PostsList class="blog-list container" />
   </Layout>
 )
 
