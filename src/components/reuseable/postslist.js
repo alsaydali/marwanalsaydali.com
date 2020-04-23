@@ -26,7 +26,7 @@ const PostsList = (props) => {
   )
   return (
     <div className={props.class}>
-      <h4>Posts List</h4>
+      <h4>{`I Have ${data.allMarkdownRemark.totalCount} Posts here`}</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <div key={node.id}>
           <Link to={node.fields.slug}>
