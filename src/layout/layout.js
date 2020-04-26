@@ -38,7 +38,8 @@ const Layout = ({ children }) => {
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
       </Helmet>
       <Nav sitetitle={siteTitle} />
-      {children}
+      <main className="container mx-auto">{children}</main>
+
       <Footer sitetitle={siteTitle} />
     </>
   )

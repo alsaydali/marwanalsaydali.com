@@ -2,13 +2,13 @@ import React from "react"
 import Links from "../reuseable/links"
 import NavLogo from "../reuseable/navlogo"
 const Nav = (props) => (
-  <div>
-    <nav className="container" navtitle={props.siteTitle}>
-      <NavLogo class="nav__logo" />
+  <nav>
+    <div className="container flex p-1 items-center justify-between bg-grey-500">
+      <NavLogo />
 
-      <Links class="nav__links" />
-    </nav>
-  </div>
+      <Links />
+    </div>
+  </nav>
 )
 
 export default Nav
