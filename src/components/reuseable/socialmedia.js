@@ -2,7 +2,7 @@ import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import TwitterIcon from "../socialicons/twittericon"
 import InstagramIcon from "../socialicons/instagramicon"
-import BehanceIcon from "../socialicons/behanceicon"
+//import BehanceIcon from "../socialicons/behanceicon"
 import GithubIcon from "../socialicons/githubicon"
 const SocialMedia = (props) => {
   const data = useStaticQuery(
@@ -22,8 +22,9 @@ const SocialMedia = (props) => {
     `
   )
   return (
-    <div className={props.class}>
+    <div className={props.location}>
       <a
+        className="fill-current text-gray-600"
         href={data.site.siteMetadata.social.twitter}
         target="_blank"
         rel="noopener noreferrer"
@@ -31,20 +32,25 @@ const SocialMedia = (props) => {
         <TwitterIcon width={props.width} />
       </a>
       <a
+        className="fill-current text-gray-600"
         href={data.site.siteMetadata.social.instagram}
         target="_blank"
         rel="noopener noreferrer"
       >
         <InstagramIcon width={props.width} />
       </a>
-      <a
+      {/* <a
+              className="fill-current text-gray-600"
+
         href={data.site.siteMetadata.social.behance}
         target="_blank"
         rel="noopener noreferrer"
       >
         <BehanceIcon width={props.width} />
-      </a>
+      </a>*/}
+
       <a
+        className="fill-current text-gray-600"
         href={data.site.siteMetadata.social.github}
         target="_blank"
         rel="noopener noreferrer"
