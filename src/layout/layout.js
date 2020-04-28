@@ -32,7 +32,7 @@ const Layout = ({ children }) => {
   const jobTitle = data.site.siteMetadata.job
   return (
     <>
-      {/*<Helmet>
+      {/*<Helmet> <Nav sitetitle={siteTitle} />
         <meta charSet="utf-8" />
         <title>{siteTitle}</title>
         <meta
@@ -41,9 +41,9 @@ const Layout = ({ children }) => {
         />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-      </Helmet><Nav sitetitle={siteTitle} />
-      <main className="">{children}</main>*/}
-
+      </Helmet>
+    */}
+      <main className="container">{children}</main>
       <Footer sitetitle={siteTitle} job={jobTitle} />
     </>
   )
