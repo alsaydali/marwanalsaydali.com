@@ -32,7 +32,9 @@ const Layout = ({ children }) => {
   const jobTitle = data.site.siteMetadata.job
   return (
     <>
-      {/*<Helmet> <Nav sitetitle={siteTitle} />
+      {" "}
+      <Nav sitetitle={siteTitle} />
+      {/*<Helmet>
         <meta charSet="utf-8" />
         <title>{siteTitle}</title>
         <meta
