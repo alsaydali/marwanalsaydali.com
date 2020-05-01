@@ -1,16 +1,18 @@
 import React from "react"
+import ContentsBox from "../../layout/contents-box"
+import Contents from "../../layout/contents"
 import BlogIntroImg from "../contents/blog-intro-img"
 import BlogIntroList from "../contents/blog-intro-list"
 const BlogIntro = () => {
   return (
-    <div className="flex items-center">
-      <div className="p-5 w-1/2">
+    <ContentsBox>
+      <Contents>
         <BlogIntroImg />
-      </div>
-      <div className="p-5 w-1/2 ">
+      </Contents>
+      <Contents>
         <BlogIntroList />
-      </div>
-    </div>
+      </Contents>
+    </ContentsBox>
   )
 }
 

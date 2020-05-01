@@ -3,7 +3,7 @@ import React from "react"
 const BlogIntroImg = () => {
   return (
     <svg
-      className="w-full"
+      className="w-full h-auto"
       id="abc6f0fe-ac59-4901-a46a-93a5eed63bf8"
       data-name="Layer 1"
       xmlns="http://www.w3.org/2000/svg"

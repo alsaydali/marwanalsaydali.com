@@ -32,9 +32,9 @@ const BlogIntroList = (props) => {
       </h2>
       <h4>
         I have{" "}
-        <spam className="font-black text-pink-600">
+        <span className="font-black text-pink-600">
           {data.allMarkdownRemark.totalCount}{" "}
-        </spam>
+        </span>
         Web development thoughts
       </h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
