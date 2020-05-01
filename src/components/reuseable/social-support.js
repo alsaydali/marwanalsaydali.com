@@ -3,8 +3,7 @@ import ContentsBox from "../../layout/contents-box"
 import Contents from "../../layout/contents"
 import SocialSupportText from "../contents/social-support-text"
 import SocialSupportImg from "../contents/social-support-img"
-import BlogIntroImg from "../contents/blog-intro-img"
-import BlogIntroList from "../contents/blog-intro-list"
+
 const SocialSupport = () => {
   return (
     <ContentsBox>
