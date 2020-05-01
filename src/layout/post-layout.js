@@ -12,9 +12,18 @@ const PostLayout = ({ data }) => {
     <Layout>
       <Img fluid={featuredImgFluid} />
 
-      <div>
-        <h1>{post.frontmatter.title}</h1>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      <div className="p-3">
+        <div className="p-5 bg-gray-100 round">
+          <h2 className="font-black  text-lg sm:text-lg md:text-xl lg:text-2xl xl:text-3xl">
+            {post.frontmatter.title}
+          </h2>
+          <h4 className=" font-bold text-pink-600">{post.frontmatter.date}</h4>
+        </div>
+
+        <div
+          className="antialiased pt-5"
+          dangerouslySetInnerHTML={{ __html: post.html }}
+        />
       </div>
     </Layout>
   )
@@ -28,6 +37,7 @@ export const query = graphql`
       html
       frontmatter {
         title
+        date(formatString: "DD MMMM, YYYY")
         featuredImage {
           childImageSharp {
             fluid(maxWidth: 1200) {
