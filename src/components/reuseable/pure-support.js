@@ -1,16 +1,16 @@
 import React from "react"
 import ContentsBox from "../../layout/contents-box"
 import Contents from "../../layout/contents"
-import CmsSupportText from "../contents/cms-support-text"
-const ContentManagementSupport = () => {
+import PureSupportText from "../contents/pure-support-text"
+const PureSupport = () => {
   return (
     <ContentsBox>
       <Contents order="order-last md:order-none">
-        <CmsSupportText />
+        <PureSupportText />
       </Contents>
       <Contents>img</Contents>
     </ContentsBox>
   )
 }
 
-export default ContentManagementSupport
+export default PureSupport
