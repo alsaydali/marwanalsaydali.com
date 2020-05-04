@@ -2,10 +2,13 @@ import React from "react"
 import ContentsBox from "../../layout/contents-box"
 import Contents from "../../layout/contents"
 import FlavourSupportText from "../contents/flavour-support-text"
+import FlavourSupportImg from "../contents/flavour-support-img"
 const FlavourSupport = () => {
   return (
     <ContentsBox>
-      <Contents>img</Contents>
+      <Contents>
+        <FlavourSupportImg />
+      </Contents>
       <Contents>
         <FlavourSupportText />
       </Contents>
