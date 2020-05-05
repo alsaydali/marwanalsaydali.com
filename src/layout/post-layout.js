@@ -10,18 +10,20 @@ const PostLayout = ({ data }) => {
 
   return (
     <Layout>
-      <Img fluid={featuredImgFluid} />
-
-      <div className="p-3">
+      <div className="p-5">
+        {" "}
+        <Img fluid={featuredImgFluid} />
+      </div>
+      <div className="p-5">
         <div className="p-5 bg-gray-100 round">
           <h2 className="font-black  text-lg sm:text-lg md:text-xl lg:text-2xl xl:text-3xl">
             {post.frontmatter.title}
           </h2>
-          <h4 className=" font-bold text-pink-600">{post.frontmatter.date}</h4>
+          <h4 className=" font-bold text-pink-600 ">{post.frontmatter.date}</h4>
         </div>
 
         <div
-          className="antialiased pt-5"
+          className="antialiased p-5"
           dangerouslySetInnerHTML={{ __html: post.html }}
         />
       </div>
