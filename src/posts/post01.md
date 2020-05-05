@@ -1,17 +1,18 @@
 ---
 title: "The Pandemic"
-date: "2020-05-01"
+date: "2020-05-05"
 featuredImage: firstpost.png
 ---
 
-<p class=" font-bold"> Hello World</p>
+<p class=" font-bold pb-3"> Hello World</p>
 
-<div ></div>
-<blockquote class="bg-gray-200 p-5"><p lang="en" dir="ltr">Just started new fresh Github account to learn something new during this <a href="https://twitter.com/hashtag/pandemic?src=hash&amp;ref_src=twsrc%5Etfw">#pandemic</a>. <br>I will try to share every day the new things that I learned. <a href="https://twitter.com/hashtag/Webdesign?src=hash&amp;ref_src=twsrc%5Etfw">#Webdesign</a> <a href="https://twitter.com/hashtag/webdevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#webdevelopment</a> <a href="https://t.co/yBU0jXLcKQ">https://t.co/yBU0jXLcKQ</a></p>&mdash; Marwan Alsaydali (@alsaydali) <a class="text-pink-600" href="https://twitter.com/alsaydali/status/1245392951871713280?ref_src=twsrc%5Etfw">April 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-Risus feugiat in ante metus dictum at tempor commodo. Lacus vel facilisis volutpat est velit egestas dui id. Tincidunt id aliquet risus feugiat in. Eget mauris pharetra et ultrices neque ornare aenean. Vitae purus faucibus ornare suspendisse. Tellus cras adipiscing enim eu turpis. Sed elementum tempus egestas sed sed risus pretium. Sed augue lacus viverra vitae. Eu non diam phasellus vestibulum lorem sed risus ultricies. Quis enim lobortis scelerisque fermentum dui faucibus. Nunc pulvinar sapien et ligula ullamcorper malesuada. Aliquet nec ullamcorper sit amet. Vitae et leo duis ut diam. Ipsum dolor sit amet consectetur adipiscing elit. Enim lobortis scelerisque fermentum dui faucibus in ornare quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Sit amet venenatis urna cursus eget. Ipsum dolor sit amet consectetur. Mauris pharetra et ultrices neque ornare aenean.
+<p class="pb-3">
+My name is Marwan Alsaydali, I am a Father, Husband, Web developer, and Photographer!</p>
+<p class="pb-3">
+COVID-19 is here and our life flipped upside down, new normal and a lot of habits had been changed. Like a lot of people around the world, I had to be part of slowing the spreading of this pandemic, I stayed home for a while, so I thought to rebuild my website, and add a blog to it so I can determine what I learn and what I do.</p>
+<p class="pb-3">
+The plan is to keep adding to this website and blog what I learn and what I add to my skills as a web developer, I am planning to keep at least one blog post to summarise what I learned in that month or maybe more for smaller tips or news.</p>
+<p class="pb-3">
+Thank you so much for reaching out, please feel free to contact me directly for any farther questions about working together or even for chat and coffee minding social distancing.</p>
 
-Vulputate enim nulla aliquet porttitor lacus luctus. Turpis egestas integer eget aliquet nibh praesent tristique magna sit. Nisi scelerisque eu ultrices vitae auctor eu augue. Gravida dictum fusce ut placerat orci nulla pellentesque. Enim nunc faucibus a pellentesque sit. Eu augue ut lectus arcu bibendum at varius vel. Consequat interdum varius sit amet mattis. Condimentum mattis pellentesque id nibh tortor id. Pharetra sit amet aliquam id diam maecenas ultricies mi eget. Massa vitae tortor condimentum lacinia quis vel eros donec. Sed risus ultricies tristique nulla aliquet enim. Magnis dis parturient montes nascetur ridiculus mus. Ornare quam viverra orci sagittis eu volutpat odio facilisis. Nunc sed augue lacus viverra vitae congue. Leo a diam sollicitudin tempor id eu nisl nunc mi. Pharetra sit amet aliquam id diam. Dolor sit amet consectetur adipiscing elit ut. Id eu nisl nunc mi ipsum faucibus vitae. Dignissim enim sit amet venenatis urna cursus eget nunc scelerisque.
-
-Ac placerat vestibulum lectus mauris ultrices eros. Mauris pharetra et ultrices neque. Quisque id diam vel quam elementum pulvinar etiam. Augue mauris augue neque gravida in fermentum et. Accumsan tortor posuere ac ut consequat. Morbi tincidunt augue interdum velit. Pellentesque habitant morbi tristique senectus. Pellentesque pulvinar pellentesque habitant morbi tristique. Praesent semper feugiat nibh sed pulvinar proin gravida. Praesent semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. In ornare quam viverra orci sagittis. Id cursus metus aliquam eleifend. Amet mauris commodo quis imperdiet massa. Non tellus orci ac auctor augue mauris augue neque gravida. Dignissim cras tincidunt lobortis feugiat vivamus at augue eget arcu.
-
-Eget felis eget nunc lobortis. Magna eget est lorem ipsum dolor sit amet consectetur. Amet venenatis urna cursus eget nunc scelerisque viverra. Quis eleifend quam adipiscing vitae proin sagittis. Leo vel fringilla est ullamcorper eget. Commodo elit at imperdiet dui accumsan. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Sit amet commodo nulla facilisi nullam vehicula ipsum a. Facilisis volutpat est velit egestas dui id. Odio morbi quis commodo odio aenean sed adipiscing. Morbi tempus iaculis urna id volutpat lacus laoreet non. Phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet enim. Sit amet justo donec enim diam vulputate. Aliquam sem et tortor consequat id porta nibh venenatis cras. Etiam dignissim diam quis enim lobortis scelerisque. Pellentesque habitant morbi tristique senectus et netus et malesuada.
+Marwan Alsaydali.
