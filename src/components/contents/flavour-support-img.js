@@ -30,7 +30,7 @@ const FlavourSupportImg = () => {
         transform="translate(-46 -84.41)"
         fill="none"
         stroke="#3f3d56"
-        stroke-miterlimit="10"
+        strokeMiterlimit="10"
         stroke-width="4"
       />
       <path

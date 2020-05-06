@@ -1,6 +1,6 @@
 import React from "react"
 
-const CommraceSupportText = (props) => {
+const CommraceSupportImg = (props) => {
   return (
     <div>
       <h2 className="font-black  text-lg sm:text-lg md:text-xl lg:text-2xl xl:text-3xl">
@@ -14,4 +14,4 @@ const CommraceSupportText = (props) => {
   )
 }
 
-export default CommraceSupportText
+export default CommraceSupportImg
